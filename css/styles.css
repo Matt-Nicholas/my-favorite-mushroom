@@ -1,0 +1,17 @@
+h1{
+  text-align: center;
+  color: #092609;
+  width: 200px;
+  height: 100px;
+  margin: 30px auto;
+  font-size: 30px;
+  position: relative;
+  display: block;
+}
+img{
+  height: 200px;
+  width: auto;
+}
+.quote{
+  font-style: italic;
+}
