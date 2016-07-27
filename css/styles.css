@@ -15,3 +15,15 @@ img{
 .quote{
   font-style: italic;
 }
+#chanterelle-showing{
+  display: none;
+}
+#morel-showing{
+  display: none;
+}
+#chicken-showing{
+  display: none;
+}
+#false-morel-showing{
+  display: none;
+}
