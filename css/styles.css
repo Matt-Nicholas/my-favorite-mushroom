@@ -33,3 +33,10 @@ img{
 #false-morel-showing{
   display: none;
 }
+.light-background{
+  background-color: white;
+}
+.dark-background{
+  background-color: black;
+  color: white;
+}
